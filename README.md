@@ -20,7 +20,7 @@ For each seed image, the pipeline:
 |--------|-------------|
 | `L_dominant`, `a_dominant`, `b_dominant` | Dominant color in standard CIE Lab |
 | `L_std`, `a_std`, `b_std` | Per-channel standard deviation |
-| `Chroma` | Color saturation — `sqrt(a² + b²)` |
+| `Chroma` | Color saturation - `sqrt(a² + b²)` |
 | `Hue_angle` | Hue direction in degrees (0–360) |
 | `C0_L/a/b` | Lighter cluster center (standard Lab) |
 | `C1_L/a/b` | Darker cluster center (standard Lab) |
