@@ -64,5 +64,5 @@ THRESH_VALUE   = 200              # blob detection threshold
 
 ## Authors
 
-- **Shubh Yadav** — domain expert, legume genetics & genomics, Tennessee State University
-- **Abhisek Gupta** — computer vision pipeline & implementation
+- **Shubh Yadav** - domain expert, legume genetics & genomics, Tennessee State University
+- **Abhisek Gupta** - computer vision pipeline & implementation, Tennessee State University
