@@ -1,6 +1,6 @@
 # Legume Seed Phenome
 
-Automated pipeline for legume seed phenotyping from images — measuring color, shape, and texture traits using computer vision and deep learning.
+Automated pipeline for legume seed phenotyping from images - measuring color, shape, and texture traits using computer vision and deep learning.
 
 ## What it does
 
